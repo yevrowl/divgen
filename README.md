@@ -1,2 +1,1 @@
-# divgen
-Divine generator
+# Divine generator
