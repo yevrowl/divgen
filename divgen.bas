@@ -140,9 +140,9 @@ Line (256, 42)-(392, 44), 14, BF: Paint (300, 20), 8, 14
 Line (400, 2)-(637, 4), 14, BF: Line -(635, 338), 14, BF: Line -(400, 336), 14, BF: Line -(402, 2), 14, BF
 Line (402, 42)-(635, 44), 14, BF: Paint (440, 20), 8, 14
 Color 14, 8: Locate 2, 4: Print "1 - Chess": Locate 2, 19: Print "2 - Makruk": Locate 2, 36: Print "3 - Xiangqi": Locate 2, 61: Print "4 - Shogi"
-Color 12, 0: Locate 23, 7: Print "ษออออออออออออออออออป"
-Color 12, 0: Locate 24, 7: Print "บ Divine generator บ"
-Color 12, 0: Locate 25, 7: Print "ศออออออออออออออออออผ"
+Color 12, 0: Locate 23, 7: Print "รรรรรรรรรรรรรรรรรรรยป"
+Color 12, 0: Locate 24, 7: Print "ยบ Divine generator ยบ"
+Color 12, 0: Locate 25, 7: Print "รรรรรรรรรรรรรรรรรรรยผ"
 Color 10, 0: Locate 23, 52: Print "Press number to select game,": Locate 24, 57: Print "Enter to solution,": Locate 25, 59: Print "or Esc to exit."
 
 Color 11, 0
@@ -3036,7 +3036,7 @@ Sub chess
     dif(19) = 27
     dif(20) = 28
     dif(21) = 32
-    dif(23) = 35
+    dif(22) = 35
     dif(23) = 36
     dif(24) = 40
     dif(25) = 42
