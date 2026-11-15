@@ -57,28 +57,28 @@ Let z = 6
 Screen 1
 Width 40, 25
 Cls
-Locate 2, z: Print "ษอออออออออออออออออออออออออออออป"
-Locate 3, z: Print "บ       Divine generator      บ"
-Locate 4, z: Print "ศอออออออออออออออออออออออออออออผ"
-Locate 5, z: Print "ษอออออออออออออออออออออออออออออป"
-Locate 6, z: Print "บ   Select graphics adapter   บ"
-Locate 7, z: Print "ฬอออออหอออออออออออออออออออออออน"
-Locate 8, z: Print "บ     บ   CGA, Amstrad, PGC   บ"
-Locate 9, z: Print "บ     บ                       บ"
-Locate 10, z: Print "บ  1  บ Plantronics Colorplus บ"
-Locate 11, z: Print "บ     บ                       บ"
-Locate 12, z: Print "บ     บ       TGA, PCjr       บ"
-Locate 13, z: Print "ฬอออออฮอออออออออออออออออออออออน"
-Locate 14, z: Print "บ     บ     EGA, MCGA, VGA    บ"
-Locate 15, z: Print "บ  2  บ                       บ"
-Locate 16, z: Print "บ     บ       AX, 8514        บ"
-Locate 17, z: Print "ฬอออออฮอออออออออออออออออออออออน"
-Locate 18, z: Print "บ     บ  DCGA, Olivetti, GDC  บ"
-Locate 19, z: Print "บ  3  บ                       บ"
-Locate 20, z: Print "บ     บ     OGA, HGC, HICC    บ"
-Locate 21, z: Print "ฬอออออฮอออออออออออออออออออออออน"
-Locate 22, z: Print "บ Esc บ         Exit          บ"
-Locate 23, z: Print "ศอออออสอออออออออออออออออออออออผ"
+Locate 2, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป"
+Locate 3, z: Print "ยบ       Divine generator      ยบ"
+Locate 4, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ"
+Locate 5, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป"
+Locate 6, z: Print "ยบ   Select graphics adapter   ยบ"
+Locate 7, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน"
+Locate 8, z: Print "ยบ     ยบ   CGA, Amstrad, PGC   ยบ"
+Locate 9, z: Print "ยบ     ยบ                       ยบ"
+Locate 10, z: Print "ยบ  1  ยบ Plantronics Colorplus ยบ"
+Locate 11, z: Print "ยบ     ยบ                       ยบ"
+Locate 12, z: Print "ยบ     ยบ       TGA, PCjr       ยบ"
+Locate 13, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน"
+Locate 14, z: Print "ยบ     ยบ     EGA, MCGA, VGA    ยบ"
+Locate 15, z: Print "ยบ  2  ยบ                       ยบ"
+Locate 16, z: Print "ยบ     ยบ       AX, 8514        ยบ"
+Locate 17, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน"
+Locate 18, z: Print "ยบ     ยบ  DCGA, Olivetti, GDC  ยบ"
+Locate 19, z: Print "ยบ  3  ยบ                       ยบ"
+Locate 20, z: Print "ยบ     ยบ     OGA, HGC, HICC    ยบ"
+Locate 21, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน"
+Locate 22, z: Print "ยบ Esc ยบ         Exit          ยบ"
+Locate 23, z: Print "รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ"
 
 Do
     Select Case InKey$
@@ -289,7 +289,7 @@ Sub chess
     Let dif(19) = 27
     Let dif(20) = 28
     Let dif(21) = 32
-    Let dif(23) = 35
+    Let dif(22) = 35
     Let dif(23) = 36
     Let dif(24) = 40
     Let dif(25) = 42
